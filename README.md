@@ -1,4 +1,4 @@
-# CapstoneThree
+# GDP per Capita Time Series Analysis
 
 ## 1. Introduction
 &nbsp;&nbsp;&nbsp;&nbsp; In my final capstone, it was important to me that I try something new, while still applying many of the skills that I had learned throughout my time at Springboard. I wanted to do a time series analysis in order to incorperate my existing skills in python as well as try out new ways to performing a time series analysis. I intended to use data on both population size and GDP per capita from 1952 to 2019 to predict the rate at which the population of the United States would grow as well as it's coresponding GDP per capita.
